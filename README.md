@@ -29,9 +29,9 @@ A summary of the dataset and chi-square test results is generated using `summary
 
 Bar plots showing the proportional distribution between groups:
 
-- ![AFB Distribution]([afb_group_plot.png)
-- ![IGRA Distribution]([IGRA Distribution.png)
-- ![Smoking Distribution](Smoking Distribution.png)
+![AFB Distribution](afb_group_plot.png)
+- ![IGRA Distribution](igra_group_plot.png)
+- ![Smoking Distribution](smoking_group_plot.png)
 
 ## 🧾 Interpretation
 
